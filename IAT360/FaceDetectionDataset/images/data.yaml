@@ -1,0 +1,6 @@
+
+train: /content/drive/MyDrive/IAT360/FaceDetectionDataset/images/train
+val: /content/drive/MyDrive/IAT360/FaceDetectionDataset/imagesval
+
+nc: 1
+names: ['face']
